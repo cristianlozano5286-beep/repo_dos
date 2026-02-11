@@ -31,3 +31,9 @@ Pasos para instalar el proyecto localmente.
  ```bash
   git clone https://github.com/cristianlozano5286@gmail.com
   cd proyecto 
+ ```
+ ---
+
+ ##
+ [![click para ver video ](asset/imagen.png)(https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1)]
+
