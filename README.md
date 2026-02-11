@@ -35,9 +35,9 @@ Pasos para instalar el proyecto localmente.
  ---
 
  ##
- [![click para ver video ](imagen.png)(https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1)]
+ [![click para ver video ](imagen.png)](https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1)
 
-[![click para ver video ](asset/https://www.stickpng.com/es/img/juegos/pokemon/pokemon-pikachu)(https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1)]
+[![click para ver imagen ](asset/https://www.stickpng.com/es/img/juegos/pokemon/pokemon-pikachu)](https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1)
 
 
 
