@@ -41,10 +41,10 @@ Pasos para instalar el proyecto localmente.
 
 ---
 
-## demo 
+## DEMO  
 Si quieres ver el programa dar click.
 
-[open in stackblintz](https://stackblitz.com/edit/secret-python-x1gihsqd?file=main.py)
+[ Open in Stackblintz ](https://stackblitz.com/edit/secret-python-x1gihsqd?file=main.py)
 
 
 
