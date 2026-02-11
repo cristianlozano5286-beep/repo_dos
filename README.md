@@ -4,7 +4,7 @@ Breve descripcion
 ---
 ## Tabla de contenido 
 - [Caracteristicas](#caracteristicas)
-- [Tegnologias ](#tecnologias )
+- [Tecnologias ](#tecnologias )
 - [requerimientos](#requerimientos)
 - [instalacion](#instalacion)
 ---
