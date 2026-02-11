@@ -14,20 +14,19 @@ Breve descripcion
 - Funcionalidad 3
 
 ---
-
 ## Tecnologia 
--Lenguaje/ Framework principal 
--Base de datos 
+- Lenguaje/ Framework principal 
+- Base de datos 
 
 ---
 ## Requerimientos 
 
--Version minima de lenguaje 
+- Version minima de lenguaje 
 - Dependencias necesarias 
 - sofware requerido 
 ---
 ## Instalacion 
-pasos para instalar el proyecto localmente 
+Pasos para instalar el proyecto localmente.
 
  ```bash
   git clone https://github.com/cristianlozano5286@gmail.com
