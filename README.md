@@ -35,14 +35,14 @@ Pasos para instalar el proyecto localmente.
  ---
 
  ##
- [![click para ver video ](asset/imagen.png)](https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1)
+ [![click para ver video ](asset/fondo1.jpg)](https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1)
 
 [![click para ver imagen ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwg2PWrY_5mkISXy_GqXWUYPbglvpL6FSUgg&s)](https://www.youtube.com/watch?v=1w7OgIMMRc4&list=RD1w7OgIMMRc4&start_radio=1)
 
 ---
 
 ## demo 
-si quieres ver el programa dar click 
+Si quieres ver el programa dar click.
 
 [open in stackblintz](https://stackblitz.com/edit/secret-python-x1gihsqd?file=main.py)
 
