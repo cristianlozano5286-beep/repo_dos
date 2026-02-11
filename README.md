@@ -4,11 +4,11 @@ Breve descripcion
 ---
 ## Tabla de contenido 
 - [Caracteristicas](#caracteristicas)
-- [Tegnologias ](#tegnologias )
+- [Tegnologias ](#tecnologias )
 - [requerimientos](#requerimientos)
 - [instalacion](#instalacion)
 ---
-## caracteristicas del proyecto 
+## Caracteristicas del proyecto 
 - Funcionalidad 1 
 - Funcionalidad 2
 - Funcionalidad 3
@@ -21,6 +21,7 @@ Breve descripcion
 
 ---
 ## Requerimientos 
+
 -Version minima de lenguaje 
 - Dependencias necesarias 
 - sofware requerido 
@@ -31,4 +32,3 @@ pasos para instalar el proyecto localmente
  ```bash
   git clone https://github.com/cristianlozano5286@gmail.com
   cd proyecto 
-
